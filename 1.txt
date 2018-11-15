@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 454445644
 122545
 
 =======
 khgkhgsakhgksag
 >>>>>>> parent of cbad6d0... master Commit
+=======
+ljdshljchljdshc
+lkhcljhzljxhlj
+kjasgg
+>>>>>>> parent of 37a61ad... Update 1.txt
